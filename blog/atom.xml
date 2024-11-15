@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://aide-family.github.io/blog</id>
+    <title>Moon监控使用文档 Blog</title>
+    <updated>2024-11-14T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://aide-family.github.io/blog"/>
+    <subtitle>Moon监控使用文档 Blog</subtitle>
+    <icon>https://aide-family.github.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Hello Moon]]></title>
+        <id>https://aide-family.github.io/blog/hello</id>
+        <link href="https://aide-family.github.io/blog/hello"/>
+        <updated>2024-11-14T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[登陆页]]></summary>
+        <content type="html"><![CDATA[<h2 class="anchor anchorWithStickyNavbar_LWe7" id="登陆页">登陆页<a href="https://aide-family.github.io/blog/hello#%E7%99%BB%E9%99%86%E9%A1%B5" class="hash-link" aria-label="登陆页的直接链接" title="登陆页的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="登陆页" src="https://aide-family.github.io/assets/images/login-957eebfd5034c6997192dde69f6e2078.png" width="3834" height="1860" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="实时告警">实时告警<a href="https://aide-family.github.io/blog/hello#%E5%AE%9E%E6%97%B6%E5%91%8A%E8%AD%A6" class="hash-link" aria-label="实时告警的直接链接" title="实时告警的直接链接">​</a></h2>
+<p><img decoding="async" loading="lazy" alt="实时告警" src="https://aide-family.github.io/assets/images/real-time-9cb2004aea535545f82cd569d21880f1.png" width="3832" height="1858" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="数据源">数据源<a href="https://aide-family.github.io/blog/hello#%E6%95%B0%E6%8D%AE%E6%BA%90" class="hash-link" aria-label="数据源的直接链接" title="数据源的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="数据源列表">数据源列表<a href="https://aide-family.github.io/blog/hello#%E6%95%B0%E6%8D%AE%E6%BA%90%E5%88%97%E8%A1%A8" class="hash-link" aria-label="数据源列表的直接链接" title="数据源列表的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="数据源" src="https://aide-family.github.io/assets/images/datasource-9cf56e244e5469a1fff274df57351154.png" width="3832" height="1860" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="元数据">元数据<a href="https://aide-family.github.io/blog/hello#%E5%85%83%E6%95%B0%E6%8D%AE" class="hash-link" aria-label="元数据的直接链接" title="元数据的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="元数据" src="https://aide-family.github.io/assets/images/metadata-cc86b2133ea63b1e4c80c85a814bd753.png" width="3832" height="1860" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="查询器">查询器<a href="https://aide-family.github.io/blog/hello#%E6%9F%A5%E8%AF%A2%E5%99%A8" class="hash-link" aria-label="查询器的直接链接" title="查询器的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="查询编辑器" src="https://aide-family.github.io/assets/images/query-edit-fd2b2404c5c0e0db927aa9d5f8f7786b.png" width="3830" height="1856" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="策略管理">策略管理<a href="https://aide-family.github.io/blog/hello#%E7%AD%96%E7%95%A5%E7%AE%A1%E7%90%86" class="hash-link" aria-label="策略管理的直接链接" title="策略管理的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="策略列表">策略列表<a href="https://aide-family.github.io/blog/hello#%E7%AD%96%E7%95%A5%E5%88%97%E8%A1%A8" class="hash-link" aria-label="策略列表的直接链接" title="策略列表的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="策略管理" src="https://aide-family.github.io/assets/images/strategy-ab475bfce33f54aadcfbd1feec2de712.png" width="3834" height="1864" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="策略编辑器">策略编辑器<a href="https://aide-family.github.io/blog/hello#%E7%AD%96%E7%95%A5%E7%BC%96%E8%BE%91%E5%99%A8" class="hash-link" aria-label="策略编辑器的直接链接" title="策略编辑器的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="策略编辑器" src="https://aide-family.github.io/assets/images/strategy-edit-1-86ee1f7dc0bbd2368fa7033621c22abf.png" width="3822" height="1856" class="img_ev3q"></p>
+<p><img decoding="async" loading="lazy" alt="策略编辑器" src="https://aide-family.github.io/assets/images/strategy-edit-2-682bf0c49bcfeb9e3d0e8dcd1a88b262.png" width="3824" height="1864" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="策略详情">策略详情<a href="https://aide-family.github.io/blog/hello#%E7%AD%96%E7%95%A5%E8%AF%A6%E6%83%85" class="hash-link" aria-label="策略详情的直接链接" title="策略详情的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="策略详情" src="https://aide-family.github.io/assets/images/strategy-detail-01cadf7b8591c025168460476c42a3f0.png" width="3836" height="1862" class="img_ev3q"></p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="告警组">告警组<a href="https://aide-family.github.io/blog/hello#%E5%91%8A%E8%AD%A6%E7%BB%84" class="hash-link" aria-label="告警组的直接链接" title="告警组的直接链接">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="告警组列表">告警组列表<a href="https://aide-family.github.io/blog/hello#%E5%91%8A%E8%AD%A6%E7%BB%84%E5%88%97%E8%A1%A8" class="hash-link" aria-label="告警组列表的直接链接" title="告警组列表的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="告警组" src="https://aide-family.github.io/assets/images/alert-group-428b7d4f6be03be2adfb2bef7e89b2ee.png" width="3830" height="1856" class="img_ev3q"></p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="告警hook对象">告警Hook对象<a href="https://aide-family.github.io/blog/hello#%E5%91%8A%E8%AD%A6hook%E5%AF%B9%E8%B1%A1" class="hash-link" aria-label="告警Hook对象的直接链接" title="告警Hook对象的直接链接">​</a></h3>
+<p><img decoding="async" loading="lazy" alt="告警Hook对象" src="https://aide-family.github.io/assets/images/alert-hook-84b9f0b131f6d9cf91d888f8e9a76832.png" width="3834" height="1862" class="img_ev3q"></p>]]></content>
+        <author>
+            <name>梧桐</name>
+            <uri>https://github.com/aide-cloud</uri>
+        </author>
+        <category label="Moon" term="Moon"/>
+        <category label="Metric" term="Metric"/>
+        <category label="Prometheus" term="Prometheus"/>
+        <category label="VictoriaMetrics" term="VictoriaMetrics"/>
+    </entry>
+</feed>
